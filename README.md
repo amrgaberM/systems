@@ -1,2 +1,3 @@
 # systems
-"Fundamentals" and "concepts" are the words reading soft here. Tighter version:  ``` Small systems built from scratch in Python and Java. Data structures, operating systems, databases, backend services. ```
+
+I build small systems from scratch here, no frameworks, in both Python and Java. Data structures, an OS project or two, a database engine, a backend service. I want to know what's actually happening under the tools I use every day instead of just calling their APIs.
