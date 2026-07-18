@@ -1,3 +1,5 @@
 # systems
 
-I build small systems from scratch here, no frameworks, in both Python and Java. Data structures, an OS project or two, a database engine, a backend service. I want to know what's actually happening under the tools I use every day instead of just calling their APIs.
+I build small systems from scratch in Python and Java, without relying on frameworks.
+The projects span data structures, operating systems, databases, and backend services,
+each implemented down to its core mechanics.
